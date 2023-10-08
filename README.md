@@ -5,7 +5,7 @@
 
 Coursera course: HTML, CSS, and Javascript for Web Developers, Module 2 Coding Assignment, completed.
 
-link: https://github.com/pawarsar/web_developers_week_2
+link: https://pawarsar.github.io/web_developers_week_2/
 
 Woo-hoo! You get to do some coding! Exciting!
 
